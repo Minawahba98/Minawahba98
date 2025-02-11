@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mina Wahba 👋</h1>
 <p align="center">
-  🚀 Data Analyst | Computer Engineer | SQL | Python | PHP | Symfony  
+  🚀 Data Analyst | Computer Engineer | SQL | Python | Tableau  
 </p>
 
 ---
