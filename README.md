@@ -5,7 +5,7 @@
 ---
 
 ### 🔥 About Me  
-- 🎓 **Master's in Software Engineering** | **Bachelor's in Business & Information Systems**  
+- 🎓 **Master's in Computer Software Engineering** | **Bachelor's in Business & Information Systems**  
 - 📊 Passionate about **Data Analytics, SQL, Python, Tableau, and Data Visualization**  
 - 📈 Currently learning **Advanced SQL Queries, Data Cleaning, and Business Intelligence**  
 - 🏗 Building **real-world projects in SQL, Python, and Tableau**  
