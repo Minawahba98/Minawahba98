@@ -45,26 +45,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)  
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)  
 
----
-
-### 📌 Portfolio Projects  
-
-#### **📊 Retail Sales Analysis**  
-- Performed **data cleaning and transformation** on **50,000+ sales records**  
-- Used **SQL & Excel** to **analyze trends, customer segments, and product categories**  
-- Created an **interactive Tableau dashboard** for visual insights  
-- 🔗 **[GitHub Repository]()** | 🔗 **[Tableau Dashboard]()**  
-
-#### **🏡 KingHouse Sales Analysis**  
-- Conducted **real estate market analysis** on **15,000+ housing sales records**  
-- Applied **SQL & Python (Pandas)** for **EDA and data visualization**  
-- Built **3 interactive dashboards** in **Tableau**  
-- 🔗 **[GitHub Repository]()** | 🔗 **[Tableau Dashboard]()**  
-
-#### **📖 Library Management System**  
-- Designed a **relational database** using **PostgreSQL & PgAdmin**  
-- Cleaned and optimized **10,000+ records** to ensure **100% data accuracy**  
-- 🔗 **[GitHub Repository]()**  
 
 ---
 
