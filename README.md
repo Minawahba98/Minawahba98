@@ -62,6 +62,11 @@
  ---
  ### 🏆 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/minaadelbis2019?theme=dark&font=Georgia)](https://leetcode.com/u/minaadelbis2019/)
+---
+## 🏅 My Badges
+![Python Badge](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85-orange?style=for-the-badge&logo=python)  
+![SQL Badge](https://img.shields.io/badge/SQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue?style=for-the-badge&logo=postgresql)
+
 
 
 ---
