@@ -1,66 +1,82 @@
-<h1 align="center">Hi, I'm Mina Wahba 👋</h1>
-<p align="center">
-  🚀 Data Analyst | Computer Engineer | SQL | Python | Tableau  
-</p>
+## Hi, I'm Mina Wahba 👋  
+
+🚀 **Data Analyst | SQL | Python | Tableau | PostgreSQL | Data Visualization**  
 
 ---
 
-## 🔥 About Me  
-- 🎓 **Master's in Computer Software Engineering** | **Bachelor’s in Business & Information Systems**  
-- 💡 Passionate about **Data Analytics, SQL, Python, Tableau, and Backend Development**  
-- 🌱 Currently learning **Advanced SQL Queries, Data Visualization & Machine Learning**  
-- 📊 Building projects in **SQL, Python, and Tableau**  
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mwahba98/)**  
+### 🔥 About Me  
+- 🎓 **Master's in Software Engineering** | **Bachelor's in Business & Information Systems**  
+- 📊 Passionate about **Data Analytics, SQL, Python, Tableau, and Data Visualization**  
+- 📈 Currently learning **Advanced SQL Queries, Data Cleaning, and Business Intelligence**  
+- 🏗 Building **real-world projects in SQL, Python, and Tableau**  
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mwahba98/)**  
 
 ---
 
-## 🛠 My Skill Set  
-### **Languages & Tools**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+### ⚡ My Skill Set  
 
-### **Backend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
-</p>
+#### **📊 Data Analytics & Visualization (Main Focus)**  
+![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=postgresql)  
+![Python](https://img.shields.io/badge/-Python-lightblue?style=for-the-badge&logo=python)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql)  
+![Tableau](https://img.shields.io/badge/-Tableau-orange?style=for-the-badge&logo=tableau)  
+📊 **Skills**: Data Cleaning | Data Wrangling | Data Storytelling | Exploratory Data Analysis (EDA)  
 
----
+#### **🗄 Databases & SQL**  
+![PgAdmin](https://img.shields.io/badge/-PgAdmin-darkblue?style=for-the-badge&logo=postgresql)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)  
+📂 **Skills**: SQL Queries | Joins | Window Functions | CTEs | Indexing | Database Optimization  
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minawahba98&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minawahba98&theme=dark" width="48%" />
-</p>
+#### **📂 Version Control & Collaboration**  
+![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)  
+📂 **Skills**: Version Control | Repository Management | Collaboration | CI/CD Basics  
 
 ---
 
-## 🚀 Featured Projects  
-### 📌 **SQL & Data Analysis**  
-- **[Retail Sales SQL Analysis](https://github.com/Minawahba98/Retail_sales_SQL)** → SQL queries to analyze sales trends and revenue.  
-- **[BookStore SQL Project](https://github.com/Minawahba98/BookStore_SQL-Project)** → SQL project for managing a bookstore.  
-- **[Diabetes Analysis - Full Dataset](https://github.com/Minawahba98/Diabetes_analysis_Full)** → SQL & Tableau for healthcare insights.  
-
-### 📌 **Backend & Software Engineering**  
-- **[Data Structures & Algorithms](https://github.com/Minawahba98/data-structures-algorithms)** → C++ projects covering linked lists, priority queues, and graph algorithms.  
-- **[PHP & Symfony Backend Development](https://github.com/Minawahba98/PHP_Symfony_Project)** → Modern backend development with PHP and Symfony.  
-
----
-
-## 📊 **Tableau Dashboards & Data Visualization**  
-🌍 **Check out my Tableau projects here:**  
-🔗 **[Tableau Public Profile](https://public.tableau.com/app/profile/mina.wahba/vizzes)**  
+### 🌐 Other Skills  
+> *(These are additional skills but not my main focus)*  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)  
+![Symfony](https://img.shields.io/badge/-Symfony-black?style=for-the-badge&logo=symfony)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)  
+![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)  
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)  
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)  
 
 ---
 
-## 🌍 **Connect With Me**  
-<p align="left">
-  <a href="https://github.com/Minawahba98" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mwahba98/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://public.tableau.com/app/profile/mina.wahba/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>
-</p>
+### 📌 Portfolio Projects  
+
+#### **📊 Retail Sales Analysis**  
+- Performed **data cleaning and transformation** on **50,000+ sales records**  
+- Used **SQL & Excel** to **analyze trends, customer segments, and product categories**  
+- Created an **interactive Tableau dashboard** for visual insights  
+- 🔗 **[GitHub Repository]()** | 🔗 **[Tableau Dashboard]()**  
+
+#### **🏡 KingHouse Sales Analysis**  
+- Conducted **real estate market analysis** on **15,000+ housing sales records**  
+- Applied **SQL & Python (Pandas)** for **EDA and data visualization**  
+- Built **3 interactive dashboards** in **Tableau**  
+- 🔗 **[GitHub Repository]()** | 🔗 **[Tableau Dashboard]()**  
+
+#### **📖 Library Management System**  
+- Designed a **relational database** using **PostgreSQL & PgAdmin**  
+- Cleaned and optimized **10,000+ records** to ensure **100% data accuracy**  
+- 🔗 **[GitHub Repository]()**  
+
+---
+
+### 🌍 Connect With Me  
+
+🔗 **[LinkedIn](https://www.linkedin.com/in/mwahba98/)**  
+📊 **[Tableau Profile](https://public.tableau.com/app/profile/mina.wahba/vizzes)**  
+📂 **[GitHub](https://github.com/Minawahba98)**  
+
+---
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minawahba98&show_icons=true&theme=tokyonight)  
+
+---
