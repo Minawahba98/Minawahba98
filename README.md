@@ -27,7 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)  
  **Skills**: SQL Queries | Joins | Window Functions | CTEs | Indexing | Database Optimization  
 
-#### ** Version Control & Collaboration**  
+####   Version Control & Collaboration
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)  
  **Skills**: Version Control | Repository Management | Collaboration | CI/CD Basics  
