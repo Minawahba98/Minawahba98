@@ -49,10 +49,11 @@
 ---
 
 ### 🌍 Connect With Me  
-
-🔗 **[LinkedIn](https://www.linkedin.com/in/mwahba98/)**  
-📊 **[Tableau Profile](https://public.tableau.com/app/profile/mina.wahba/vizzes)**  
-📂 **[GitHub](https://github.com/Minawahba98)**  
+🔗 [LinkedIn](your-linkedin-url)  
+📊 [Tableau Profile](your-tableau-url)  
+📂 [GitHub](your-github-url)  
+🏆 [HackerRank](https://www.hackerrank.com/profile/minaadelbis2019)  
+💻 [LeetCode](https://leetcode.com/u/minaadelbis2019/)
 
 ---
 
