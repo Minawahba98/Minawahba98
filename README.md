@@ -50,7 +50,7 @@
 
 ### 🌍 Connect With Me  
 🔗 [LinkedIn](your-linkedin-url)  
-📊 [Tableau Profile]([your-tableau-url](https://public.tableau.com/app/profile/mina.wahba/vizzes))  
+📊 [Tableau Profile](https://public.tableau.com/app/profile/mina.wahba/vizzes)
 📂 [GitHub](your-github-url)  
 🏆 [HackerRank](https://www.hackerrank.com/profile/minaadelbis2019)  
 💻 [LeetCode](https://leetcode.com/u/minaadelbis2019/)
