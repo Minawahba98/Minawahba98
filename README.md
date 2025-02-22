@@ -32,7 +32,7 @@
 
 ### 🔗 **Let's Connect**
 💼 **[LinkedIn](https://www.linkedin.com/in/mwahba98/)**  
-📊 **[Tableau Profile](https://public.tableau.com/app/profile/mina.wahba/vizzes)**  
+📊 **[Tableau Profile]([https://public.tableau.com/app/profile/mina.wahba/vizzes](https://public.tableau.com/app/profile/mina.wahba/vizzes))**  
 📂 **[GitHub](https://github.com/Minawahba98)**  
 🏆 **[HackerRank](https://www.hackerrank.com/profile/minaadelbis2019)**  
 💻 **[LeetCode](https://leetcode.com/u/minaadelbis2019/)**  
