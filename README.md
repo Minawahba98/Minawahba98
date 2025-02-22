@@ -1,7 +1,9 @@
-## Hi, I'm Mina Wahba 👋  
+<!-- Banner Image -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Mina Wahba - Futuristic Banner" width="100%">
+</p>
 
-🚀 **Data Analyst | SQL | Python | Tableau | PostgreSQL | Data Visualization**  
-
+# Hi, I'm Mina Wahba 👋 
 ---
 
 ### 🔥 About Me  
