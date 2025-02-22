@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub!;I+am+Mina+Wahba.;Data+Analyst🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub!;I+am+Mina+Wahba.;Data+Analyst🚀" alt="Typing Animation" />
 </p>
 
 ---
